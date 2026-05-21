@@ -53,12 +53,6 @@ Result:
 - task_complexity: small
 - tests passed: 15
 ```
-
-## Known Limitations / In Progress
-
-- Medium-size bus booking repo flow reaches the test runner, but test failure diagnostics still need improvement because failed Jest output may return `unknown_failure`.
-- Larger multi-file repair loop is still being improved.
-
 ## API Usage
 
 Minimal `POST /run-workflow` payload:
