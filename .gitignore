@@ -1,0 +1,12 @@
+.env
+*.env
+backend/.env
+.venv/
+backend/.venv/
+__pycache__/
+*.pyc
+node_modules/
+backend/data/chroma/
+.DS_Store
+.vscode/
+.idea/

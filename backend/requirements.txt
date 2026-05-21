@@ -1,0 +1,10 @@
+chromadb
+fastapi
+groq
+langgraph
+python-dotenv
+rank-bm25
+requests
+sentence-transformers
+tiktoken
+uvicorn[standard]
